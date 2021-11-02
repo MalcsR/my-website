@@ -4,7 +4,7 @@ This is really awesome.
 
 Updates made on master on GitHub before rebase.
 
-## Repository Purpose
+ Repository Purpose
 
 This will be a change that conflicts 
 with whatever is on the remote side.
