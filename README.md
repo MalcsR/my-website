@@ -15,3 +15,6 @@ This was edited locally.
 The purpose of this file is to provide examples
 on how to use Git and Github together.
 
+## Getting started section to readme
+
+adding __getting started__ section to this readme.
